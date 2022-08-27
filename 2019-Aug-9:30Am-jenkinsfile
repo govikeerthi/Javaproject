@@ -1,4 +1,4 @@
-//demo one
+
 
 node('master'){
     // Add maven to path
